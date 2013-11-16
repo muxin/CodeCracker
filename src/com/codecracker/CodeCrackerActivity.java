@@ -231,7 +231,7 @@ public class CodeCrackerActivity extends Activity {
 					paintTag();
 					if (correct) {
 						Toast.makeText(CodeCrackerActivity.this, "You win",
-								Toast.LENGTH_SHORT).show();
+								Toast.LENGTH_LONG).show();
 						showAnswer();
 					} else if (chance < 6) {
 						chance++;
@@ -244,7 +244,7 @@ public class CodeCrackerActivity extends Activity {
 							b[chance][m].setEnabled(false);
 						}
 						Toast.makeText(CodeCrackerActivity.this,
-								"You have no chance left", Toast.LENGTH_SHORT)
+								"You have no chance left", Toast.LENGTH_LONG)
 								.show();
 						showAnswer();
 					}
