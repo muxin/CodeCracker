@@ -38,3 +38,7 @@
 ![You lose if you use up 7 chances](https://github.com/muxin/CodeCracker/raw/master/snapshot/lose.png)
 <br/><br/>
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/muxin/codecracker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
