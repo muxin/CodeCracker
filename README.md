@@ -1,3 +1,11 @@
+### Game rule
+* The goal is to guess a sequence of colors based on hints
+* The sequence consists of four colors
+* The sequence is randomly generated for each round
+* Color repetition is possible
+* There are 6 possible colors to choose from
+* You have 7 chances for each round
+
 ### Playing the game
 * Start the game <br/>
 ![Start the game](https://github.com/muxin/CodeCracker/raw/master/snapshot/start.png)
